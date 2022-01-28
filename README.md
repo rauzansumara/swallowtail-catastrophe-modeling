@@ -1,3 +1,3 @@
 # swallowtail-catastrophe-modeling
 
-![](https://raw.githubusercontent.com/rauzansumara/swallowtail-catastrophe-modeling/Swallowtail_Catastrophe.gif)
+<img src="https://raw.githubusercontent.com/rauzansumara/swallowtail-catastrophe-modeling/master/Swallowtail_Catastrophe.gif" width="500">
